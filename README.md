@@ -5,12 +5,12 @@ Sentiment &amp; Emotion Fusion (SEF) — hybrid pipeline (toxicity + emotion + s
 **Short:** Hybrid pipeline combining toxicity (DistilBERT), emotion (GoEmotions), and sarcasm detection for real-time moderation in educational chat. This repo contains a single notebook that includes model loading, optional fine-tuning, and a GUI demo.
 
 ## Files
-- `SEF_full.ipynb` — Jupyter notebook: model load / fine-tune / GUI demo (all steps in one file).
+- `refined_model.ipynb` — Jupyter notebook: model load / fine-tune / GUI demo (all steps in one file).
 - `paper.pdf` — accepted manuscript (IJCRT Paper ID: IJCRT-295867).
 - `requirements.txt` — Python dependencies.
 
 ## Quickstart (run on Google Colab / locally)
-1. Open `SEF_full.ipynb` in Google Colab or Jupyter.
+1. Open `refined_model.ipynb` in Google Colab or Jupyter.
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook cells in order. The notebook includes:
    - Model load (prebuilt DistilBERT weights)

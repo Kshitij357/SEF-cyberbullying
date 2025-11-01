@@ -2,7 +2,7 @@
 Sentiment &amp; Emotion Fusion (SEF) — hybrid pipeline (toxicity + emotion + sarcasm) for real-time cyberbullying detection (DistilBERT, GoEmotions)
 # SEF: Sentiment and Emotion Fusion (Cyberbullying Detection)
 
-**Short:** Hybrid pipeline combining toxicity (DistilBERT), emotion (GoEmotions), and sarcasm detection for real-time moderation in educational chat. This repo contains a single notebook that includes model loading, optional fine-tuning, and a GUI demo.
+**Short:** Hybrid pipeline combining toxicity (DistilBERT), emotion (GoEmotions), and sarcasm detection for real-time moderation in educational chat. This repo contains a single notebook that includes model loading, SEF based fine-tuning, and a GUI demo.
 
 ## Files
 - `refined_model.ipynb` — Jupyter notebook: model load / fine-tune / GUI demo (all steps in one file).

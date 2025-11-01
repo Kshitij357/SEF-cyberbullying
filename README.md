@@ -6,7 +6,7 @@ Sentiment &amp; Emotion Fusion (SEF) — hybrid pipeline (toxicity + emotion + s
 
 ## Files
 - `refined_model.ipynb` — Jupyter notebook: model load / fine-tune / GUI demo (all steps in one file).
-- `paper.pdf` — accepted manuscript (IJCRT Paper ID: IJCRT-295867).
+- `SEF_research.pdf` — accepted manuscript (IJCRT Paper ID: IJCRT-295867).
 - `requirements.txt` — Python dependencies.
 
 ## Quickstart (run on Google Colab / locally)
